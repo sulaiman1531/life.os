@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+passlib
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+langchain-community
+faiss-cpu
